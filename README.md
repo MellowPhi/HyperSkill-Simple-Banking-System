@@ -1,1 +1,1 @@
-# HyperSkill---Simple-Banking-System
+# HyperSkill-Simple-Banking-System
